@@ -1,2 +1,0 @@
-# Atividade_Java_Lista_Estruturada
-Atividade Avaliativa
